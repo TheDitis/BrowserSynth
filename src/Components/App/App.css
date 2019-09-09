@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.mainAnalyzer {
+  background-color: #282c34;
+  width: 500vw;
+  height: 30vh;
+}
+.filter {
+  background-color: #282c34;
+  width: 30vh;
+}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;

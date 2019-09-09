@@ -1,0 +1,25 @@
+#osc1 {
+    background-color: #282c34;
+    width: 30%;
+    height: 15vh;
+    padding: 4px;
+    border: 15px solid black;
+}
+.waveformtype {
+    position: relative;
+    right: 10vh;
+}
+.waveformbtn {
+    padding: 10px;
+    margin: 7px;
+}
+.oscgain {
+    position: relative;
+    transform: rotate(-90deg);
+    bottom: 40px;
+    left: 160px;
+}
+.oscfreq {
+    position: relative;
+    right: 10vh;
+}
